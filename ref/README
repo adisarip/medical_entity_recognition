@@ -1,4 +1,13 @@
-reference material of the project
-https://paperswithcode.com/task/medical-named-entity-recognition
-https://github.com/text-machine-lab/CliNER
-https://github.com/noc-lab/clinical_concept_extraction
+References:
+1. https://www.ncbi.nlm.nih.gov/pubmed/25817970
+2. https://metamap.nlm.nih.gov/
+3. https://github.com/IBMMRL/medinfo2015
+4. CliNER: https://arxiv.org/abs/1803.02245
+5. SciBERT: https://arxiv.org/pdf/1903.10676v3.pdf
+6. BioFLAIR: https://arxiv.org/pdf/1908.05760v1.pdf
+7. CollaboNET: https://arxiv.org/pdf/1809.07950v2.pdf
+8. Clinical Concept Extraction: https://arxiv.org/abs/1810.10566
+
+
+A blog explaining the Named entity recognition (in python) using LSTM & CRF based models.
+https://www.depends-on-the-definition.com/introduction-named-entity-recognition-python/
