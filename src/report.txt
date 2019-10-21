@@ -1,0 +1,12 @@
+Medical Entity Recognition
+1.	Abstract
+
+2.	Methodologies Tried
+We approached the problem of identifying the medical entities in the dataset using the following approaches – A naïve max-word-frequency approach, Conditional Random Fields (CRF), Long Short Term Memory (LSTM) and combination of LSTM-CRF.
+Among all the methods mentioned above - LSTM-CRF is the state-of-the-art approach for any Named Entity Recognition problem.
+Hence we picked it as our final approach.
+
+4.	Datasets Used:
+We cleaned up the CADEC dataset set and used it against our model.
+
+
