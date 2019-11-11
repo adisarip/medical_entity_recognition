@@ -142,7 +142,7 @@ disturbance consciousness
 disturbance consciousness nos
 impaired consciousness
 impaired consciousness
-st segment
+segment
 acute otitis media
 acute otitis media
 acute otitis media nos
@@ -281,7 +281,7 @@ abnormal hair texture
 abnormal hair texture
 illusion
 illusion nos
-gilles de la tourette syndrome
+gilles tourette syndrome
 hypocalcemia
 hypocalcemia
 hypocalcemia syndrome
@@ -637,7 +637,7 @@ dry cough
 dry cough
 unproductive cough
 unproductive cough
-av junctional rhythm
+junctional rhythm
 nodal rhythm
 nodal rhythm
 mitral valve disorder
@@ -1047,8 +1047,8 @@ lymphadenitis nos
 adenitis nos
 adenitis
 adenitis
-human herpesvirus 3
-human herpesvirus 3
+human herpesvirus
+human herpesvirus
 varicella zoster virus
 varicella zoster virus
 monocytosis
@@ -1474,8 +1474,8 @@ vasculitic rash
 methylprednisolone preparation
 methylprednisolone preparation
 methylprednisolone preparation
-6 alpha methylprednisolone preparation
-6 alpha methylprednisolone preparation
+alpha methylprednisolone preparation
+alpha methylprednisolone preparation
 toothache
 toothache
 dentagra
@@ -1783,7 +1783,7 @@ tic douloureux
 trifacial neuralgia
 trifacial neuralgia
 fothergill neuralgia
-torsades de pointes
+torsades pointes
 twisting spikes
 twisting spikes
 urethritis
@@ -1974,7 +1974,7 @@ nyctalgia
 glomerulonephritis
 glomerulonephritis
 glomerulonephritis nos
-r n syndrome
+syndrome
 reversible ischemic neurologic deficit syndrome
 reversible ischemic neurologic deficit syndrome
 chloasma
@@ -2271,7 +2271,7 @@ ejaculation failure
 ejaculation failure
 fatty atrophy
 fatty atrophy
-adipositas ex vacuo
+adipositas vacuo
 fat atrophy
 fat atrophy
 congestive heart failure
@@ -2393,7 +2393,7 @@ cholestatic jaundice syndrome nos
 cholestatic jaundice nos
 cholestatic jaundice
 cholestatic jaundice
-diabetes mellitus type ii
+diabetes mellitus type
 non insulin dependent diabetes mellitus
 non insulin dependent diabetes mellitus
 ncdmm
@@ -2530,9 +2530,9 @@ reticulocytosis
 reticulocytosis
 balanoposthitis
 balanoposthitis
-vitamin c preparation
-vitamin c preparation
-vitamin c preparation nos
+vitamin preparation
+vitamin preparation
+vitamin preparation nos
 ascorbic acid preparation
 ascorbic acid preparation
 ascorbic acid preparation
@@ -2716,7 +2716,7 @@ disease mediastinum
 disease mediastinum nos
 periorbital edema
 periorbital edema
-shortened p r interval
+shortened interval
 disease cardiovascular system
 disease cardiovascular system
 cardiovascular disorder
@@ -2947,7 +2947,7 @@ pressured speech
 pressured speech
 mobitz type incomplete atrioventricular block
 wenckebach phenomenon
-wenckebach incomplete av block
+wenckebach incomplete block
 upper respiratory infection
 upper respiratory infection
 upper respiratory infection nos
@@ -4028,12 +4028,12 @@ corneal deposit
 corneal deposit nos
 gastrointestinal hemorrhage
 gastrointestinal hemorrhage
-gi bleeding
-gi hemorrhage
+bleeding
+hemorrhage
 gastrointestinal hemorrhage nos
 gastrointestinal bleeding nos
-gi bleeding nos
-gi hemorrhage nos
+bleeding nos
+hemorrhage nos
 gastrointestinal bleeding
 gastrointestinal bleeding
 diabetic complication
@@ -4298,8 +4298,8 @@ bad breath
 bad breath
 fetor oris
 fetor oris
-fetor ex ore
-fetor ex ore
+fetor ore
+fetor ore
 stomatodysodia
 stomatodysodia
 ovarian cyst
@@ -4551,8 +4551,8 @@ upper abdominal pain
 decreased sense smell
 defect impairment sense smell
 defect impairment sense smell
-bipolar ii disorder
-bipolar ii disorder nos
+bipolar disorder
+bipolar disorder nos
 periodontal abscess
 periodontal abscess
 parodontal abscess
@@ -4890,9 +4890,9 @@ stupor
 hyponatremia
 hyponatremia
 hyponatremia nos
-na deficiency nos
+deficiency nos
 hyponatraemia nos
-na deficiency
+deficiency
 sleep terror disorder
 sleep terror disorder
 facial nerve disorder
@@ -5408,7 +5408,7 @@ disease face
 disease face
 disease foot
 disease foot
-prolonged qt interval
+prolonged interval
 decreased sweating
 abdominal bloating
 abdominal bloating
@@ -5435,7 +5435,7 @@ aural vertigo
 ménière syndrome nos
 ménière vertigo nos
 leukocytosis nos
-increased qt interval
+increased interval
 cyanosis
 cyanosis
 happiness
@@ -5478,7 +5478,7 @@ meniere disease nos
 leucocytosis nos
 leucocytosis
 leucocytosis
-increased q interval
+increased interval
 lichenified eczema
 lichenified eczema
 renovascular hypertension
@@ -5556,18 +5556,18 @@ atonic seizure
 strept throat
 strep throat
 strep throat
-type 2 diabetes mellitus
-type 2 diabetes mellitus
-type 2 diabetes mellitus
+type diabetes mellitus
+type diabetes mellitus
+type diabetes mellitus
 niddm
 niddm
-diabetes mellitus type 2
-diabetes mellitus type 2
+diabetes mellitus type
+diabetes mellitus type
 achalasia oesophagus
 achalasia oesophagus
-type 1 diabetes mellitus
-diabetes mellitus type 1
-diabetes mellitus type 1
+type diabetes mellitus
+diabetes mellitus type
+diabetes mellitus type
 hip joint pain
 hip joint pain
 respiratory disease
@@ -6054,8 +6054,8 @@ taking fluids
 taking fluids
 drinking less fluids
 drinking less fluids
-sweat excessive (& symptom )] night
-sweat excessive (& symptom )] night
+sweat excessive symptom night
+sweat excessive symptom night
 night sweats
 night sweats
 hyperhidrosis symptom
@@ -6070,7 +6070,7 @@ heavy feeling
 heavy feeling
 stiff neck
 stiff neck
-ns neck stiffness
+neck stiffness
 neck stiffness
 neck stiffness
 backache
@@ -6085,17 +6085,17 @@ influenza like symptoms
 influenza like symptoms
 congestion throat
 congestion throat
-cough (& symptom ])) sputum symptom
-cough (& symptom ])) sputum symptom
-c cough
+cough symptom ])) sputum symptom
+cough symptom ])) sputum symptom
+cough
 sputum symptom
 sputum symptom
 cough
 cough
 cough symptom
 cough symptom
-wheezing (& symptom ])
-wheezing (& symptom ])
+wheezing symptom
+wheezing symptom
 wheezing symptom
 wheezing symptom
 wheezing
@@ -6248,9 +6248,9 @@ forgetful
 forgetful
 discomfort
 discomfort
-st elevation
-prolonged pr interval
-prolonged p r interval
+elevation
+prolonged interval
+prolonged interval
 qrs complex
 qrs complex feature
 qrs complex feature
@@ -6277,7 +6277,7 @@ anti nuclear antibody positive
 anti nuclear antibody positive
 anti nuclear factor positive
 anti nuclear factor positive
-c reactive protein abnormal
+reactive protein abnormal
 liver function tests normal
 liver function tests normal
 liver function tests abnormal
@@ -6310,10 +6310,10 @@ bone marrow eryth hypoplasia
 bone marrow eryth hypoplasia
 breast fed
 breast fed
-bf breast feeding
-bf breast feeding
-bf breast fed
-bf breast fed
+breast feeding
+breast feeding
+breast fed
+breast fed
 infant breast fed
 infant breast fed
 hypochloraemia
@@ -6353,7 +6353,7 @@ carcinoid tumour morphology
 carcinoid tumour morphology
 carcinoid tumor morphology
 carcinoid tumor morphology
-metabolic syndrome x
+metabolic syndrome
 folic acid deficiency
 folic acid deficiency
 folate deficiency
@@ -6370,10 +6370,10 @@ hypomagnesemia
 hypomagnesemia
 cystic fibrosis
 cystic fibrosis
-cf cystic fibrosis
+cystic fibrosis
 fibrocystic disease
 fibrocystic disease
-cf
+
 mucoviscidosis
 mucoviscidosis
 diabetes mellitus
@@ -6543,10 +6543,10 @@ gingivitis
 gingivitis
 chronic gingivitis
 chronic gingivitis
-gingivitis (& chronic ])
-gingivitis (& chronic ])
-sialoadenitis (& parotitis ])
-sialoadenitis (& parotitis ])
+gingivitis chronic
+gingivitis chronic
+sialoadenitis parotitis
+sialoadenitis parotitis
 parotitis
 parotitis
 sialoadenitis
@@ -6577,7 +6577,7 @@ occlusion bile duct
 occlusion bile duct
 acute pancreatitis
 acute pancreatitis
-ap acute pancreatitis
+acute pancreatitis
 anxiety disorder
 anxiety disorder
 renal impairment
@@ -6628,7 +6628,7 @@ hand eczema
 hand eczema
 lupus erythematosus
 lupus erythematosus
-le lupus erythematosus
+lupus erythematosus
 lupus
 lupus
 striae distensae
@@ -6687,8 +6687,8 @@ fibromyalgia
 fibromyalgia
 spasm back muscles
 spasm back muscles
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ])
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ])
+pain limb ankle arm foot hand heel leg shoulder thigh buttock
+pain limb ankle arm foot hand heel leg shoulder thigh buttock
 heel pain
 heel pain
 pain buttock
@@ -6896,7 +6896,7 @@ chronic cluster headache
 chronic cluster headache
 excessive day night time sleepiness
 excessive day night time sleepiness
-24 hour hypersomnolence
+hour hypersomnolence
 loss sense smell
 loss sense smell
 diabetic neuropathy
@@ -6924,7 +6924,7 @@ manic psychosis
 manic psychosis
 manic
 manic
-bipolar ii disorder
+bipolar disorder
 mixed anxiety depressive disorder
 mixed anxiety depressive disorder
 anxiety depression
@@ -6967,9 +6967,9 @@ primary hypertrophic cardiomyopathy
 primary hypertrophic cardiomyopathy
 heart block
 heart block
-hb heart block
+heart block
 avb atrioventricular block
-av block
+block
 atrioventricular block
 atrioventricular block
 peripheral ischaemia
@@ -7002,7 +7002,7 @@ dental disease
 dental disease
 tooth disorder
 tooth disorder
-bd bowel dysfunction
+bowel dysfunction
 bowel dysfunction
 bowel dysfunction
 gastroesophageal reflux disease
@@ -7035,7 +7035,7 @@ liver disease
 liver disease
 disorder liver
 disorder liver
-ld liver disease
+liver disease
 disease liver
 disease liver
 intra abdominal hematoma
@@ -7075,7 +7075,7 @@ candiduria
 candiduria
 vaginal infection
 vaginal infection
-pv vaginal infection
+vaginal infection
 infective vaginitis
 infective vaginitis
 intermenstrual bleeding
@@ -7214,8 +7214,8 @@ diminished sweating
 course illness
 course illness
 course illness
-ef epileptic fit
-ef epileptic fit
+epileptic fit
+epileptic fit
 epileptic fit
 epileptic fit
 generalised seizure
@@ -7661,10 +7661,10 @@ malignant tumor breast
 malignant tumor breast
 breast cancer
 breast cancer
-ca breast cancer
+breast cancer
 malignant tumour breast
 malignant tumour breast
-ca carcinoma breast
+carcinoma breast
 carcinoma breast
 carcinoma breast
 uterine sarcoma
@@ -7673,25 +7673,25 @@ sarcoma uterus
 sarcoma uterus
 endometrial carcinoma
 endometrial carcinoma
-endometrial ca
-endometrial ca
+endometrial
+endometrial
 carcinoma prostate
 carcinoma prostate
-ca carcinoma prostate
+carcinoma prostate
 prostate carcinoma
 prostate carcinoma
 intracranial tumour
 intracranial tumour
 ict intracranial tumour
-bt brain tumour
+brain tumour
 brain tumour
 brain tumour
 intracranial tumor
 intracranial tumor
 brain tumor
 brain tumor
-bt brain tumor
-bt brain tumor
+brain tumor
+brain tumor
 ict intracranial tumor
 ict intracranial tumor
 papilloma skin
@@ -7770,8 +7770,8 @@ transient cerebral ischaemia
 raynaud phenomenon
 paroxysmal digital cyanosis
 paroxysmal digital cyanosis
-cardiovascular disease (& circulatory heart ])
-cardiovascular disease (& circulatory heart ])
+cardiovascular disease circulatory heart
+cardiovascular disease circulatory heart
 cvs disease
 cardiovascular disease
 cardiovascular disease
@@ -7787,8 +7787,8 @@ hypertension
 hypertension
 hypertensive disease
 hypertensive disease
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis
 hypertrophic obstructive cardiomyopathy
 hypertrophic obstructive cardiomyopathy
 endomyocardial fibrosis
@@ -7838,8 +7838,8 @@ cerebral infarct
 cerebral infarct
 cerebral infarct cerebrovascular accident undefined stroke cva stroke nos
 cerebral infarct cerebrovascular accident undefined stroke cva stroke nos
-pneumonia influenza &/ pneumonia
-pneumonia influenza &/ pneumonia
+pneumonia influenza pneumonia
+pneumonia influenza pneumonia
 pneumonia
 pneumonia
 pneumonia influenza
@@ -7854,7 +7854,7 @@ biliary calculus
 biliary calculus
 cholelithiasis
 cholelithiasis
-cl cholelithiasis
+cholelithiasis
 stone biliary
 stone biliary
 calculus biliary
@@ -7867,8 +7867,8 @@ gingival periodontal disease
 gingival periodontal disease
 gingival disease
 gingival disease
-gingival &/ periodontal disease
-gingival &/ periodontal disease
+gingival periodontal disease
+gingival periodontal disease
 acute gastritis gastric erosion
 acute gastritis gastric erosion
 gastric erosion
@@ -7901,7 +7901,7 @@ haematuria
 haematuria
 hematuria
 hematuria
-urinary tract infection (& nos ])
+urinary tract infection nos
 urinary tract infection nos
 infection urinary tract
 infection urinary tract
@@ -7930,8 +7930,8 @@ polymenorrhea
 polymenorrhea
 excessive eating polyphagia
 excessive eating polyphagia
-:: polyphagia
-:: polyphagia
+polyphagia
+polyphagia
 polyphagia
 polyphagia
 excessive eating
@@ -8010,8 +8010,8 @@ tobacco consumption
 tobacco consumption
 tobacco consumption non smoker smoker amount smoked
 tobacco consumption non smoker smoker amount smoked
-tiredness ], fatigue ], lethargy malaise symptom
-tiredness ], fatigue ], lethargy malaise symptom
+tiredness fatigue lethargy malaise symptom
+tiredness fatigue lethargy malaise symptom
 lethargy symptom
 lethargy symptom
 tiredness symptom
@@ -8028,8 +8028,8 @@ impaired exercise tolerance
 impaired exercise tolerance
 walking distance impaired exercise tolerance
 walking distance impaired exercise tolerance
-loss taste (& symptom
-loss taste (& symptom
+loss taste symptom
+loss taste symptom
 loss taste sense
 loss taste sense
 taste loss symptom
@@ -8064,29 +8064,29 @@ shock
 shock
 shock post abortion
 shock post abortion
-shock (& post abortion ])
-shock (& post abortion ])
+shock post abortion
+shock post abortion
 glucose intolerance
 glucose intolerance
 malabsorption glucose
 malabsorption glucose
-hypothyroidism congenital acquired (& cretinism myxedema ])
-hypothyroidism congenital acquired (& cretinism myxedema ])
+hypothyroidism congenital acquired cretinism myxedema
+hypothyroidism congenital acquired cretinism myxedema
 cretinism
 cretinism
-hypothyroidism congen .+ acqui
-hypothyroidism congen .+ acqui
+hypothyroidism congen acqui
+hypothyroidism congen acqui
 hypothyroidism congenital acquired
 hypothyroidism congenital acquired
 hypothyroidism
 hypothyroidism
 myxoedema
 myxoedema
-hypothyroidism congenital acquired (& cretinism myxoedema ])
-hypothyroidism congenital acquired (& cretinism myxoedema ])
+hypothyroidism congenital acquired cretinism myxoedema
+hypothyroidism congenital acquired cretinism myxoedema
 myxedema
 myxedema
-cerebral degenerations nos &/ alzheimer disease &/ pick disease &/ reye syndrome
+cerebral degenerations nos alzheimer disease pick disease reye syndrome
 alzheimer disease
 pick disease
 cerebral degenerations nos
@@ -8113,7 +8113,7 @@ restless legs organic
 restless legs organic
 myoclonic jerks
 myoclonic jerks
-bell palsy &/ facial palsy
+bell palsy facial palsy
 bell facial palsy
 facial palsy
 facial palsy
@@ -8198,10 +8198,10 @@ painful arc syndrome shoulder
 painful arc syndrome shoulder
 bursitis shoulder
 bursitis shoulder
-shoulder syndrome (& painful arc ][ rotator cuff ])][ bicipital tendinit ][ bursitis ][ frozen ][ pericapsulit ][ adhes capsulit ]) tendinitis subscapular ][ supraspinat ][ infraspinat ][ bicep long head ])
-shoulder syndrome (& painful arc ][ rotator cuff ])][ bicipital tendinit ][ bursitis ][ frozen ][ pericapsulit ][ adhes capsulit ]) tendinitis subscapular ][ supraspinat ][ infraspinat ][ bicep long head ])
-epicondylitis &/ tennis elbow golfers elbow
-epicondylitis &/ tennis elbow golfers elbow
+shoulder syndrome painful arc rotator cuff ])][ bicipital tendinit bursitis frozen pericapsulit adhes capsulit tendinitis subscapular supraspinat infraspinat bicep long head
+shoulder syndrome painful arc rotator cuff ])][ bicipital tendinit bursitis frozen pericapsulit adhes capsulit tendinitis subscapular supraspinat infraspinat bicep long head
+epicondylitis tennis elbow golfers elbow
+epicondylitis tennis elbow golfers elbow
 golfers elbow
 golfers elbow
 tennis elbow epicondylitis
@@ -8212,8 +8212,8 @@ golfer elbow
 golfer elbow
 tennis elbow
 tennis elbow
-tendinitis ankle tarsus achilles ankle ]) calcaneal spur metatarsalgia
-tendinitis ankle tarsus achilles ankle ]) calcaneal spur metatarsalgia
+tendinitis ankle tarsus achilles ankle calcaneal spur metatarsalgia
+tendinitis ankle tarsus achilles ankle calcaneal spur metatarsalgia
 achilles tendiditis
 achilles tendiditis
 spur calcaneal
@@ -8228,8 +8228,8 @@ calcaneal spur
 calcaneal spur
 achilles tendinitis
 achilles tendinitis
-muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma fb ][ talc ]) hypotonia unsp non traum musc tear ][ rupt ]) rhabdomyolysis
-muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma fb ][ talc ]) hypotonia unsp non traum musc tear ][ rupt ]) rhabdomyolysis
+muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma talc hypotonia unsp non traum musc tear rupt rhabdomyolysis
+muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma talc hypotonia unsp non traum musc tear rupt rhabdomyolysis
 non traumatic muscle tear
 non traumatic muscle tear
 non traumatic muscle rupture
@@ -8260,7 +8260,7 @@ intercostal myalgia
 intercostal myalgia
 myalgia myositis nos intercostal myalgia
 myalgia myositis nos intercostal myalgia
-pain limb &/ nos
+pain limb nos
 pain limb nos
 pain limb
 pain limb
@@ -8293,8 +8293,8 @@ anxiety state
 anxiety state
 panic attack
 panic attack
-anxiety state (& states panic attack ])) pseudocyesis
-anxiety state (& states panic attack ])) pseudocyesis
+anxiety state states panic attack ])) pseudocyesis
+anxiety state states panic attack ])) pseudocyesis
 frigidity impotence lack loss libido psychogen dyspareunia fear ejaculation premature ejaculation
 frigidity impotence lack loss libido psychogen dyspareunia fear ejaculation premature ejaculation
 premature ejaculation
@@ -8315,8 +8315,8 @@ loss libido
 loss libido
 lack libido
 lack libido
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )])
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )])
+sleep disorders insomnia nightmares sleepwalking somnambulism )])
+sleep disorders insomnia nightmares sleepwalking somnambulism )])
 nightmares
 nightmares
 somnambulism
@@ -8359,8 +8359,8 @@ baldness
 baldness
 bald
 bald
-chronic rhinitis (& ozaena
-chronic rhinitis (& ozaena
+chronic rhinitis ozaena
+chronic rhinitis ozaena
 chronic rhinitis
 chronic rhinitis
 ozena
@@ -8577,10 +8577,10 @@ crying associated emotion
 crying associated emotion
 tearfulness
 tearfulness
-c feeling depressed
+feeling depressed
 syncope symptom
 syncope symptom
-c cough
+cough
 cerebral hemorrhage
 cerebral hemorrhage
 cerebral haemorrhage
@@ -8658,7 +8658,7 @@ pus cells urine
 pus cells urine
 scalp itchy
 scalp itchy
-e dry lips
+dry lips
 stress work
 stress work
 isolated memory skills
@@ -9226,19 +9226,19 @@ influenza like symptoms
 influenza like symptoms
 bleeding per rectum
 bleeding per rectum
-pr bleeding per rectum
+bleeding per rectum
 blood per rectum
 blood per rectum
-pr blood per rectum
-rb rectal bleeding
+blood per rectum
+rectal bleeding
 prb rectal bleeding
 rectal haemorrhage
 rectal haemorrhage
 rectal hemorrhage
 rectal hemorrhage
-ibuprofen 5 gel
-ibuprofen 5 gel
-ibuprofen 5 gel
+ibuprofen gel
+ibuprofen gel
+ibuprofen gel
 uncontrollable vomiting
 uncontrollable vomiting
 partial deafness
@@ -9361,7 +9361,7 @@ sensitivities
 sensitivities
 ethanol abuse
 ethanol abuse
-aa alcohol abuse
+alcohol abuse
 disorders autonomic nervous system
 disorders autonomic nervous system
 cold extremities
@@ -9380,7 +9380,7 @@ gonorrhoea
 gonorrhoea
 infection due neisseria gonorrheae
 infection due neisseria gonorrheae
-di diabetes insipidus
+diabetes insipidus
 gastric ulcer haemorrhage
 gastric ulcer haemorrhage
 eclamptic toxaemia
@@ -9391,8 +9391,8 @@ ventilatory failure
 ventilatory failure
 hypercapnic respiratory failure
 hypercapnic respiratory failure
-type 2 respiratory failure
-type 2 respiratory failure
+type respiratory failure
+type respiratory failure
 fracture distal end tibia fibula
 fracture distal end tibia fibula
 ankle fracture
@@ -9478,11 +9478,11 @@ congenital eye anomalies
 congenital eye anomalies
 inflammation lymph node
 inflammation lymph node
-hz herpes zoster
+herpes zoster
 vzv varicella zoster virus
-human alpha herpes virus 3
-human alpha herpes virus 3
-hz herpes zoster virus
+human alpha herpes virus
+human alpha herpes virus
+herpes zoster virus
 herpes zoster
 herpes zoster
 infective dermatological disorders
@@ -9491,7 +9491,7 @@ skin infection
 skin infection
 skin subcutaneous tissue infection
 skin subcutaneous tissue infection
-cl cirrhosis liver
+cirrhosis liver
 hyperphosphataemia
 hyperphosphataemia
 cerebral oedema
@@ -9526,7 +9526,7 @@ pharyngeal oedema
 pharyngeal oedema
 subarachnoid haemorrhage
 subarachnoid haemorrhage
-ap abdominal pain
+abdominal pain
 persecutory delusion
 persecutory delusion
 hypervolaemia
@@ -9621,7 +9621,7 @@ malignant tumor ovary
 malignant tumor ovary
 gastroenteropathy
 gastroenteropathy
-ge gastroenteritis
+gastroenteritis
 sighing respiration
 sighing respiration
 abnormal behaviour
@@ -9675,7 +9675,7 @@ aching pain
 aching pain
 soft stool
 soft stool
-wc whooping cough
+whooping cough
 chb complete heart block
 shock physiological
 shock physiological
@@ -9709,18 +9709,18 @@ ischaemic colitis
 ischaemic colitis
 inflammation vagina
 inflammation vagina
-ou oesophageal ulcer
-ou esophageal ulcer
-ou esophageal ulcer
+oesophageal ulcer
+esophageal ulcer
+esophageal ulcer
 arthralgia knee
 arthralgia knee
 knee joint pain
 knee joint pain
-pm polymyositis
+polymyositis
 boecks sarcoidosis
 boecks sarcoidosis
-ventricular tachycardia polymorphic q prolongation
-torsade de pointes
+ventricular tachycardia polymorphic prolongation
+torsade pointes
 pregnancy abortive outcome
 pregnancy abortive outcome
 mycoses
@@ -9735,7 +9735,7 @@ anaesthesia
 anaesthesia
 keloid scar
 keloid scar
-cd crohn disease
+crohn disease
 regional enteritis
 regional enteritis
 crohn regional enteritis
@@ -9804,16 +9804,16 @@ tobacco smoking behavior finding
 tobacco smoking behavior finding
 raised blood pressure
 raised blood pressure
-bp high blood pressure
+high blood pressure
 systemic arterial hypertension
 systemic arterial hypertension
 elevated blood pressure
 elevated blood pressure
 hbp high blood pressure
-ht hypertension
+hypertension
 high blood pressure disorder
 high blood pressure disorder
-bp hypertension
+hypertension
 retching
 retching
 depressed mood
@@ -9931,7 +9931,7 @@ problem sight
 problem sight
 poor vision
 poor vision
-lv low vision
+low vision
 difficulty seeing
 difficulty seeing
 cannot see properly
@@ -9970,7 +9970,7 @@ localised mass
 localised mass
 muscle hypertonicity
 muscle hypertonicity
-rd retinal detachment
+retinal detachment
 detached retina
 detached retina
 congestive cardiac failure
@@ -10004,8 +10004,8 @@ maturity onset diabetes mellitus
 maturity onset diabetes mellitus
 niddm non insulin dependent diabetes mellitus
 niddm non insulin dependent diabetes mellitus
-type ii diabetes mellitus
-type ii diabetes mellitus
+type diabetes mellitus
+type diabetes mellitus
 diabetes mellitus adult onset
 diabetes mellitus adult onset
 loss sensation
@@ -10022,7 +10022,7 @@ hyperactive behaviour
 hyperactive behaviour
 hyperactive behavior
 hyperactive behavior
-ha hyperactivity
+hyperactivity
 impacted stool rectum
 impacted stool rectum
 impacted feces
@@ -10148,7 +10148,7 @@ mediastinal disease
 mediastinal disease
 periorbital oedema
 periorbital oedema
-shortened pr interval
+shortened interval
 cvs disease
 cvs disease
 disorder circulatory system
@@ -10288,13 +10288,13 @@ median nerve compression
 median nerve compression
 bacteraemia
 bacteraemia
-ph peliosis hepatis
+peliosis hepatis
 protoporphyrinogen oxidase deficiency
 protoporphyrinogen oxidase deficiency
-vp variegate porphyria
+variegate porphyria
 porphyria variegata
 porphyria variegata
-tb tuberculous meningitis
+tuberculous meningitis
 tbm tuberculous meningitis
 pest
 pest
@@ -10315,7 +10315,7 @@ liver failure
 liver failure
 inverted wave
 ostm osteomyelitis
-om osteomyelitis
+osteomyelitis
 disorder larynx
 disorder larynx
 swollen abdomen
@@ -10413,14 +10413,14 @@ disorder haemostasis
 disorder haemostasis
 disorder haemostasis nos
 disorder haemostasis nos
-op osteoporosis
+osteoporosis
 acute eosinophilic pneumonia
 acute eosinophilic pneumonia
 loeffler syndrome
 loeffler syndrome
 simple pulmonary eosinophilia
 simple pulmonary eosinophilia
-ep acute eosinophilic pneumonia
+acute eosinophilic pneumonia
 tissue devitalisation
 tissue devitalisation
 hiccoughs
@@ -10456,7 +10456,7 @@ hypermagnesaemia
 hypermagnesaemia
 large intestinal dysmotility
 large intestinal dysmotility
-aa aortic aneurysm
+aortic aneurysm
 haemorrhagic fibrinogenolysis
 haemorrhagic fibrinogenolysis
 consumptive thrombohaemorrhagic disorder
@@ -10484,7 +10484,7 @@ mean blood pressure
 mean blood pressure
 circumscribed alopecia
 circumscribed alopecia
-aa alopecia areata
+alopecia areata
 pseudotumour cerebri
 pseudotumour cerebri
 haemoglobinuria
@@ -10493,7 +10493,7 @@ overbreathing
 overbreathing
 hyperventilating
 hyperventilating
-hv hyperventilation
+hyperventilation
 trachyonychia
 trachyonychia
 intolerant heat
@@ -10530,7 +10530,7 @@ incontinence feces
 incontinence feces
 increased appetite
 increased appetite
-dm diabetes mellitus
+diabetes mellitus
 sas sleep apnea syndrome
 sas sleep apnea syndrome
 sleep hypopnea
@@ -10565,8 +10565,8 @@ intervertebral disc protrusion
 intervertebral disc protrusion
 hyperchloraemia
 hyperchloraemia
-gi haemorrhage
-gi haemorrhage
+haemorrhage
+haemorrhage
 gastrointestinal haemorrhage
 gastrointestinal haemorrhage
 psychiatric illness
@@ -10730,7 +10730,7 @@ diffuse oesophageal spasm
 diffuse oesophageal spasm
 dyskinesia oesophagus
 dyskinesia oesophagus
-os oesophageal spasm
+oesophageal spasm
 corkscrew oesophagus
 corkscrew oesophagus
 curling oesophagus
@@ -10797,7 +10797,7 @@ bowel obstruction
 bowel obstruction
 obstruction intestine
 obstruction intestine
-io intestinal obstruction
+intestinal obstruction
 haemorrhagic colitis
 haemorrhagic colitis
 mood raised
@@ -11329,8 +11329,8 @@ excessive appetite finding
 excessive appetite finding
 reduced fluid intake finding
 reduced fluid intake finding
-sweat excessive (& symptom )] night
-sweat excessive (& symptom )] night
+sweat excessive symptom night
+sweat excessive symptom night
 alcohol intolerance finding
 alcohol intolerance finding
 crying associated mood
@@ -11355,14 +11355,14 @@ influenza like symptoms
 influenza like symptoms
 congestion throat finding
 congestion throat finding
-cough (& symptom ])) sputum symptom
-cough (& symptom ])) sputum symptom
+cough symptom ])) sputum symptom
+cough symptom ])) sputum symptom
 pharyngeal dryness finding
 pharyngeal dryness finding
 pain esophagus finding
 pain esophagus finding
-wheezing (& symptom ])
-wheezing (& symptom ])
+wheezing symptom
+wheezing symptom
 dyspnoea
 dyspnoea
 impaired gastric emptying finding
@@ -11481,9 +11481,9 @@ thoughts self harm finding
 thoughts self harm finding
 fear death finding
 fear death finding
-st elevation observable entity
-st elevation observable entity
-prolonged pr interval finding
+elevation observable entity
+elevation observable entity
+prolonged interval finding
 qrs complex feature observable entity
 qrs complex feature observable entity
 difficulty writing finding
@@ -11516,8 +11516,8 @@ sensation hot cold finding
 sensation hot cold finding
 anti nuclear factor positive finding
 anti nuclear factor positive finding
-c reactive protein abnormal finding
-c reactive protein abnormal finding
+reactive protein abnormal finding
+reactive protein abnormal finding
 liver function tests normal finding
 liver function tests normal finding
 liver function tests abnormal finding
@@ -11587,8 +11587,8 @@ thermal burn morphologic abnormality
 thermal burn morphologic abnormality
 sprain ligament joint disorder
 sprain ligament joint disorder
-metabolic syndrome x
-metabolic syndrome x
+metabolic syndrome
+metabolic syndrome
 folic acid deficiency disorder
 folic acid deficiency disorder
 macroglobulinemia disorder
@@ -11685,10 +11685,10 @@ asthma disorder
 asthma disorder
 pleurisy disorder
 pleurisy disorder
-gingivitis (& chronic ])
-gingivitis (& chronic ])
-sialoadenitis (& parotitis ])
-sialoadenitis (& parotitis ])
+gingivitis chronic
+gingivitis chronic
+sialoadenitis parotitis
+sialoadenitis parotitis
 rectal haemorrhage
 rectal haemorrhage
 ulceration colon
@@ -11761,8 +11761,8 @@ fibromyalgia
 fibromyalgia
 spasm back muscles finding
 spasm back muscles finding
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ])
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ])
+pain limb ankle arm foot hand heel leg shoulder thigh buttock
+pain limb ankle arm foot hand heel leg shoulder thigh buttock
 pain calf
 pain calf
 shoulder pain
@@ -11912,8 +11912,8 @@ psychotic disorder
 psychotic disorder
 mania disorder
 mania disorder
-bipolar ii disorder
-bipolar ii disorder
+bipolar disorder
+bipolar disorder
 mixed anxiety depressive disorder disorder
 mixed anxiety depressive disorder disorder
 stammering
@@ -12081,7 +12081,7 @@ viral gastroenteritis disorder
 viral gastroenteritis disorder
 metallic taste finding
 metallic taste finding
-prolonged qt interval finding
+prolonged interval finding
 diminished sweating finding
 diminished sweating finding
 course illness attribute
@@ -12396,26 +12396,26 @@ transient ischemic attack disorder
 raynaud phenomenon disorder
 raynaud phenomenon disorder
 raynaud phenomenon disorder
-cardiovascular disease (& circulatory heart ])
-cardiovascular disease (& circulatory heart ])
+cardiovascular disease circulatory heart
+cardiovascular disease circulatory heart
 hypertensive disease hypertension
 hypertensive disease hypertension
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis
 transient ischaemic attacks vertebro basilar insufficiency drop attacks
 transient ischaemic attacks vertebro basilar insufficiency drop attacks
 cerebral infarct cerebrovascular accident undefined stroke cva stroke nos
 cerebral infarct cerebrovascular accident undefined stroke cva stroke nos
-pneumonia influenza &/ pneumonia
-pneumonia influenza &/ pneumonia
+pneumonia influenza pneumonia
+pneumonia influenza pneumonia
 esophageal dysmotility disorder
 esophageal dysmotility disorder
 ulcerative colitis
 ulcerative colitis
 calculus biliary tract disorder
 calculus biliary tract disorder
-gingival &/ periodontal disease
-gingival &/ periodontal disease
+gingival periodontal disease
+gingival periodontal disease
 acute gastritis gastric erosion
 acute gastritis gastric erosion
 irritable bowel syndrome pseudomembranous colitis
@@ -12424,8 +12424,8 @@ liver biliary pancreas git nos biliary disease gallbladder disease liver disease
 liver biliary pancreas git nos biliary disease gallbladder disease liver disease
 haematuria ambiguous
 haematuria ambiguous
-urinary tract infection (& nos ])
-urinary tract infection (& nos ])
+urinary tract infection nos
+urinary tract infection nos
 hypomenorrhoea scanty periods
 hypomenorrhoea scanty periods
 polymenorrhoea epimenorrhoea frequent periods
@@ -12468,28 +12468,28 @@ sore throat symptom finding
 sore throat symptom finding
 tobacco consumption non smoker smoker amount smoked
 tobacco consumption non smoker smoker amount smoked
-tiredness ], fatigue ], lethargy malaise symptom
-tiredness ], fatigue ], lethargy malaise symptom
+tiredness fatigue lethargy malaise symptom
+tiredness fatigue lethargy malaise symptom
 walking distance impaired exercise tolerance
 walking distance impaired exercise tolerance
-loss taste (& symptom
-loss taste (& symptom
+loss taste symptom
+loss taste symptom
 pain site git abdominal site symptom flank subcostal iliac fossa
 pain site git abdominal site symptom flank subcostal iliac fossa
 abortion spontaneous complete incomplete
 abortion spontaneous complete incomplete
-shock (& post abortion ])
-shock (& post abortion ])
+shock post abortion
+shock post abortion
 malabsorption glucose disorder
 malabsorption glucose disorder
-hypothyroidism congenital acquired (& cretinism myxoedema ])
-hypothyroidism congenital acquired (& cretinism myxoedema ])
-cerebral degenerations nos &/ alzheimer disease &/ pick disease &/ reye syndrome
-cerebral degenerations nos &/ alzheimer disease &/ pick disease &/ reye syndrome
+hypothyroidism congenital acquired cretinism myxoedema
+hypothyroidism congenital acquired cretinism myxoedema
+cerebral degenerations nos alzheimer disease pick disease reye syndrome
+cerebral degenerations nos alzheimer disease pick disease reye syndrome
 extrapyramidal disease nos blepharospasm choreo athetosis writer cramp organic myoclonic jerks spasmodic torticollis
 extrapyramidal disease nos blepharospasm choreo athetosis writer cramp organic myoclonic jerks spasmodic torticollis
-bell palsy &/ facial palsy
-bell palsy &/ facial palsy
+bell palsy facial palsy
+bell palsy facial palsy
 subjective visual disturbances visual hallucinations photophobia sudden visual loss
 subjective visual disturbances visual hallucinations photophobia sudden visual loss
 blind low vision one eye disorder
@@ -12508,28 +12508,28 @@ arthralgia lower leg finding
 arthralgia lower leg finding
 pain joint coxalgia
 pain joint coxalgia
-shoulder syndrome (& painful arc ][ rotator cuff ])][ bicipital tendinit ][ bursitis ][ frozen ][ pericapsulit ][ adhes capsulit ]) tendinitis subscapular ][ supraspinat ][ infraspinat ][ bicep long head ])
-shoulder syndrome (& painful arc ][ rotator cuff ])][ bicipital tendinit ][ bursitis ][ frozen ][ pericapsulit ][ adhes capsulit ]) tendinitis subscapular ][ supraspinat ][ infraspinat ][ bicep long head ])
-epicondylitis &/ tennis elbow golfers elbow
-epicondylitis &/ tennis elbow golfers elbow
-tendinitis ankle tarsus achilles ankle ]) calcaneal spur metatarsalgia
-tendinitis ankle tarsus achilles ankle ]) calcaneal spur metatarsalgia
-muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma fb ][ talc ]) hypotonia unsp non traum musc tear ][ rupt ]) rhabdomyolysis
-muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma fb ][ talc ]) hypotonia unsp non traum musc tear ][ rupt ]) rhabdomyolysis
+shoulder syndrome painful arc rotator cuff ])][ bicipital tendinit bursitis frozen pericapsulit adhes capsulit tendinitis subscapular supraspinat infraspinat bicep long head
+shoulder syndrome painful arc rotator cuff ])][ bicipital tendinit bursitis frozen pericapsulit adhes capsulit tendinitis subscapular supraspinat infraspinat bicep long head
+epicondylitis tennis elbow golfers elbow
+epicondylitis tennis elbow golfers elbow
+tendinitis ankle tarsus achilles ankle calcaneal spur metatarsalgia
+tendinitis ankle tarsus achilles ankle calcaneal spur metatarsalgia
+muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma talc hypotonia unsp non traum musc tear rupt rhabdomyolysis
+muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma talc hypotonia unsp non traum musc tear rupt rhabdomyolysis
 myalgia myositis nos intercostal myalgia
 myalgia myositis nos intercostal myalgia
-pain limb &/ nos
-pain limb &/ nos
+pain limb nos
+pain limb nos
 panic disorder finding
 panic disorder finding
 mania hypomania agitated depression
 mania hypomania agitated depression
-anxiety state (& states panic attack ])) pseudocyesis
-anxiety state (& states panic attack ])) pseudocyesis
+anxiety state states panic attack ])) pseudocyesis
+anxiety state states panic attack ])) pseudocyesis
 frigidity impotence lack loss libido psychogen dyspareunia fear ejaculation premature ejaculation
 frigidity impotence lack loss libido psychogen dyspareunia fear ejaculation premature ejaculation
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )])
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )])
+sleep disorders insomnia nightmares sleepwalking somnambulism )])
+sleep disorders insomnia nightmares sleepwalking somnambulism )])
 benign tumor breast disorder
 benign tumor breast disorder
 blood urate raised finding
@@ -12544,8 +12544,8 @@ first degree atrioventricular block disorder
 first degree atrioventricular block disorder
 alopecia
 alopecia
-chronic rhinitis (& ozaena
-chronic rhinitis (& ozaena
+chronic rhinitis ozaena
+chronic rhinitis ozaena
 lack loss sexual desire disorder
 lack loss sexual desire disorder
 bad circulation vasomotor change finding
@@ -12638,14 +12638,14 @@ suicidal thoughts
 suicidal thoughts
 crying associated mood finding
 crying associated mood finding
-c feeling depressed context dependent category
-c feeling depressed context dependent category
-c feeling depressed context dependent category
+feeling depressed context dependent category
+feeling depressed context dependent category
+feeling depressed context dependent category
 syncope symptom disorder
 syncope symptom disorder
-c cough context dependent category
-c cough context dependent category
-c cough context dependent category
+cough context dependent category
+cough context dependent category
+cough context dependent category
 cerebral hemorrhage disorder
 cerebral hemorrhage disorder
 arthritis arthrosis disorder
@@ -13027,9 +13027,9 @@ coordination problem finding
 coordination problem finding
 dry cough finding
 dry cough finding
-av junctional rhythm disorder
-av junctional rhythm disorder
-av junctional rhythm disorder
+junctional rhythm disorder
+junctional rhythm disorder
+junctional rhythm disorder
 mitral valve disorder disorder
 mitral valve disorder disorder
 hypertriglyceridemia disorder
@@ -13153,8 +13153,8 @@ influenza like symptoms finding
 influenza like symptoms finding
 rectal hemorrhage disorder
 rectal hemorrhage disorder
-ibuprofen 5 gel substance
-ibuprofen 5 gel substance
+ibuprofen gel substance
+ibuprofen gel substance
 uncontrollable vomiting disorder
 uncontrollable vomiting disorder
 partial deafness finding
@@ -13478,8 +13478,8 @@ neurotoxicity disorder
 neurotoxicity disorder
 lymphadenitis disorder
 lymphadenitis disorder
-human herpesvirus 3 organism
-human herpesvirus 3 organism
+human herpesvirus organism
+human herpesvirus organism
 monocytosis disorder
 monocytosis disorder
 disorder soft tissue disorder
@@ -13774,8 +13774,8 @@ swallowing painful finding
 swallowing painful finding
 disease prostate disorder
 disease prostate disorder
-st segment observable entity
-st segment observable entity
+segment observable entity
+segment observable entity
 generalized metabolic disorder disorder
 generalized metabolic disorder disorder
 pain pelvis finding
@@ -13814,8 +13814,8 @@ sarcoidosis disorder
 sarcoidosis disorder
 trigeminal neuralgia disorder
 trigeminal neuralgia disorder
-torsades de pointes disorder
-torsades de pointes disorder
+torsades pointes disorder
+torsades pointes disorder
 pregnancy abortive outcome disorder
 pregnancy abortive outcome disorder
 urethritis disorder
@@ -13918,9 +13918,9 @@ night pain finding
 night pain finding
 glomerulonephritis disorder
 glomerulonephritis disorder
-r n syndrome disorder
-r n syndrome disorder
-r n syndrome disorder
+syndrome disorder
+syndrome disorder
+syndrome disorder
 chloasma disorder
 chloasma disorder
 sleeptalking finding
@@ -14166,8 +14166,8 @@ premature ejaculation finding
 premature ejaculation finding
 cholestatic jaundice syndrome disorder
 cholestatic jaundice syndrome disorder
-diabetes mellitus type 2 disorder
-diabetes mellitus type 2 disorder
+diabetes mellitus type disorder
+diabetes mellitus type disorder
 numbness finding
 numbness finding
 ventricular arrhythmia disorder
@@ -14250,8 +14250,8 @@ reticulocytosis finding
 reticulocytosis finding
 balanoposthitis disorder
 balanoposthitis disorder
-vitamin c preparation substance
-vitamin c preparation substance
+vitamin preparation substance
+vitamin preparation substance
 tear film insufficiency disorder
 tear film insufficiency disorder
 end stage renal disease disorder
@@ -14265,8 +14265,8 @@ atelectasis disorder
 atelectasis disorder
 chorioretinitis disorder
 chorioretinitis disorder
-diabetes mellitus type 1 disorder
-diabetes mellitus type 1 disorder
+diabetes mellitus type disorder
+diabetes mellitus type disorder
 abnormal reflex finding
 abnormal reflex finding
 skin ulcer disorder
@@ -14350,7 +14350,7 @@ disease mediastinum disorder
 disease mediastinum disorder
 periorbital edema disorder
 periorbital edema disorder
-shortened pr interval finding
+shortened interval finding
 disease cardiovascular system disorder
 disease cardiovascular system disorder
 dysuria finding
@@ -14409,8 +14409,8 @@ abnormal hair texture finding
 abnormal hair texture finding
 illusions finding
 illusions finding
-gilles de la tourette syndrome disorder
-gilles de la tourette syndrome disorder
+gilles tourette syndrome disorder
+gilles tourette syndrome disorder
 increased pressure finding
 increased pressure finding
 edema larynx disorder
@@ -15284,7 +15284,7 @@ upper abdominal pain finding
 upper abdominal pain finding
 sense smell impaired finding
 sense smell impaired finding
-bipolar ii disorder disorder
+bipolar disorder disorder
 periodontal abscess disorder
 periodontal abscess disorder
 macrocytic anemia disorder
@@ -15654,9 +15654,9 @@ focused attention function observable entity
 focused attention function observable entity
 disorder macula retina disorder
 disorder macula retina disorder
-ibuprofen 5 gel product
-ibuprofen 5 gel product
-ibuprofen 5 gel product
+ibuprofen gel product
+ibuprofen gel product
+ibuprofen gel product
 salivary secretion function observable entity
 salivary secretion function observable entity
 zinc product product
@@ -15732,8 +15732,8 @@ hypertensive disorder systemic arterial disorder
 hypertensive disorder systemic arterial disorder
 skin pigmentation function observable entity
 skin pigmentation function observable entity
-vitamin c preparation product
-vitamin c preparation product
+vitamin preparation product
+vitamin preparation product
 meperidine product
 meperidine product
 thirst function observable entity
@@ -15891,8 +15891,8 @@ pnd paroxysmal nocturnal dyspnoea
 pnd paroxysmal nocturnal dyspnoea
 observation diarrhoea
 observation diarrhoea
-gi gastrointestinal haemorrhage
-gi gastrointestinal haemorrhage
+gastrointestinal haemorrhage
+gastrointestinal haemorrhage
 gih gastrointestinal haemorrhage
 gih gastrointestinal haemorrhage
 git gastrointestinal tract haemorrhage
@@ -15967,8 +15967,8 @@ pnd paroxysmal nocturnal dyspnea
 pnd paroxysmal nocturnal dyspnea
 observation diarrhea
 observation diarrhea
-gi gastrointestinal hemorrhage
-gi gastrointestinal hemorrhage
+gastrointestinal hemorrhage
+gastrointestinal hemorrhage
 gih gastrointestinal hemorrhage
 gih gastrointestinal hemorrhage
 git gastrointestinal tract hemorrhage
@@ -15977,8 +15977,8 @@ osa obstructive sleep apnea
 osa obstructive sleep apnea
 dos diffuse esophageal spasm
 dos diffuse esophageal spasm
-os esophageal spasm
-os esophageal spasm
+esophageal spasm
+esophageal spasm
 curling esophagus
 curling esophagus
 rosary bead esophagus
@@ -16025,8 +16025,8 @@ spastic colitis
 spastic colitis
 irritable colon syndrome
 irritable colon syndrome
-ic irritable colon
-ic irritable colon
+irritable colon
+irritable colon
 dislocated joint
 dislocated joint
 testosterone product
@@ -16050,8 +16050,8 @@ sweating less
 sweating less
 intrauterine polyp
 intrauterine polyp
-mf mycosis fungoides
-mf mycosis fungoides
+mycosis fungoides
+mycosis fungoides
 sexual precocity
 sexual precocity
 hypertension due renovascular disease
@@ -16066,8 +16066,8 @@ peptic ulceration
 peptic ulceration
 pud peptic ulcer disease
 pud peptic ulcer disease
-pu peptic ulcer
-pu peptic ulcer
+peptic ulcer
+peptic ulcer
 atrophic
 atrophic
 manic depressive psychosis
@@ -16096,8 +16096,8 @@ corneal disorder
 corneal disorder
 periphery feels cold
 periphery feels cold
-gc gonococcus infection
-gc gonococcus infection
+gonococcus infection
+gonococcus infection
 clap
 clap
 gci gonococcal infection
@@ -16134,14 +16134,14 @@ obsessive compulsive disorder
 obsessive compulsive disorder
 obsessive compulsive neurosis
 obsessive compulsive neurosis
-superinfection () 02
-superinfection () 02
+superinfection
+superinfection
 congenital anolmaly globe
 congenital anolmaly globe
 soft tissue disorder
 soft tissue disorder
-mm malignant melanoma
-mm malignant melanoma
+malignant melanoma
+malignant melanoma
 confidence
 confidence
 ohm onychomadesis
@@ -16176,8 +16176,8 @@ finding bleeding nose
 finding bleeding nose
 seeing double
 seeing double
-ha headache
-ha headache
+headache
+headache
 pain head
 pain head
 premature ventricular complex
@@ -16195,8 +16195,8 @@ distrubed sleep pattern
 distrubed sleep pattern
 observation involuntary movement
 observation involuntary movement
-ad alzheimer disease
-ad alzheimer disease
+alzheimer disease
+alzheimer disease
 contentedness
 contentedness
 observation joint swelling
@@ -16237,10 +16237,10 @@ thrombocytopenia
 thrombocytopenia
 swollen glands
 swollen glands
-la lymphadenopathy
-la lymphadenopathy
-ln lymphadenopathy
-ln lymphadenopathy
+lymphadenopathy
+lymphadenopathy
+lymphadenopathy
+lymphadenopathy
 enlarged glands
 enlarged glands
 swelling lymph node
@@ -16259,23 +16259,23 @@ infectious disease genitopelvic system
 infectious disease genitopelvic system
 disorder macula lutea
 disorder macula lutea
-oe otitis externa
-oe otitis externa
-tn trigeminal neuralgia
-tn trigeminal neuralgia
+otitis externa
+otitis externa
+trigeminal neuralgia
+trigeminal neuralgia
 inflammation urethra
 inflammation urethra
-en erythema nodosum
-en erythema nodosum
+erythema nodosum
+erythema nodosum
 ekbom syndrome
 ekbom syndrome
 ekbom syndrome
 psa psoriatic arthritis
 psa psoriatic arthritis
 psa psoriatic arthritis
-pa psoriatic arthritis
-pa psoriatic arthritis
-pa psoriatic arthritis
+psoriatic arthritis
+psoriatic arthritis
+psoriatic arthritis
 cheloid
 cheloid
 keloid cicatrix
@@ -16288,8 +16288,8 @@ anaphylactoid shock
 anaphylactoid shock
 arthralgia multiple joints
 arthralgia multiple joints
-gn glomerulonephritis
-gn glomerulonephritis
+glomerulonephritis
+glomerulonephritis
 endocrinopathy
 endocrinopathy
 endocrine disease
@@ -16312,24 +16312,24 @@ sleep talking
 sleep talking
 cancer
 cancer
-ca cancer
-ca cancer
+cancer
+cancer
 malignant neoplasm
 malignant neoplasm
-ca cancer colon
-ca cancer colon
 cancer colon
 cancer colon
-ca cancer pancreas
-ca cancer pancreas
+cancer colon
+cancer colon
+cancer pancreas
+cancer pancreas
 pancreatic cancer
 pancreatic cancer
-ca pancreatic cancer
-ca pancreatic cancer
-ovarian ca
-ovarian ca
-ca cancer ovary
-ca cancer ovary
+pancreatic cancer
+pancreatic cancer
+ovarian
+ovarian
+cancer ovary
+cancer ovary
 cancer ovary
 cancer ovary
 poor weight gain
@@ -16338,13 +16338,13 @@ putting weight
 putting weight
 gaining weight
 gaining weight
-acute pn pyelonephritis
+acute pyelonephritis
 apn acute pyelonephritis
 apn acute pyelonephritis
-em erythema multiforme
-em erythema multiforme
-ep eosinophilic pneumonia
-ep eosinophilic pneumonia
+erythema multiforme
+erythema multiforme
+eosinophilic pneumonia
+eosinophilic pneumonia
 pie pulmonary infiltrates eosinophilia
 pie pulmonary infiltrates eosinophilia
 pulmonary infiltrates eosinophilia
@@ -16373,8 +16373,8 @@ disorder orbital region
 disorder orbital region
 episodic paroxysmal anxiety disorder
 episodic paroxysmal anxiety disorder
-ca cancer uterus
-ca cancer uterus
+cancer uterus
+cancer uterus
 macromastia
 macromastia
 breasts enlarged
@@ -16395,8 +16395,8 @@ hot touch
 hot touch
 injury kidney
 injury kidney
-cd contact dermatitis
-cd contact dermatitis
+contact dermatitis
+contact dermatitis
 feeling unreality
 feeling unreality
 immunity disorders
@@ -16407,8 +16407,8 @@ inflammation lid margin
 inflammation lid margin
 ocular pain
 ocular pain
-rf renal failure
-rf renal failure
+renal failure
+renal failure
 rsis repetitive strain injury syndrome
 rsis repetitive strain injury syndrome
 rsi repetitive strain injury
@@ -16437,14 +16437,14 @@ disorder heart conduction
 disorder heart conduction
 polymicrobial infection
 polymicrobial infection
-om osteomalacia
-om osteomalacia
+osteomalacia
+osteomalacia
 ascorbic acid product
 ascorbic acid product
 ascorbic acid product
 ascorbic acid product
-vitamin c product
-vitamin c product
+vitamin product
+vitamin product
 end stage chronc renal failure
 end stage chronc renal failure
 esrf end stage renal failure
@@ -16461,10 +16461,10 @@ mental disability
 mental disability
 mental subnormality
 mental subnormality
-mh mental handicap
-mh mental handicap
-lp lichen planus
-lp lichen planus
+mental handicap
+mental handicap
+lichen planus
+lichen planus
 paranoid psychosis
 paranoid psychosis
 heart rate slow
@@ -16472,12 +16472,12 @@ heart rate slow
 idiopathic parkinson disease
 parkinson disease
 parkinson disease
-pd parkinson disease
-pd parkinson disease
+parkinson disease
+parkinson disease
 arthralgia hip
 arthralgia hip
-af atrial fibrillation
-af atrial fibrillation
+atrial fibrillation
+atrial fibrillation
 pain passing urine
 pain passing urine
 painful micturition
@@ -16520,7 +16520,7 @@ admission accident emergency department
 admission accident emergency department
 admission casualty department
 admission casualty department
-admission e department
+admission department
 disease cartilage
 disease cartilage
 disorder cartilage
@@ -16529,19 +16529,19 @@ stomach gripes
 stomach gripes
 duodenal ulcer
 duodenal ulcer
-du duodenal ulcer
-ra retrograde amnesia
-ra retrograde amnesia
-ns nephrotic syndrome
-ns nephrotic syndrome
+duodenal ulcer
+retrograde amnesia
+retrograde amnesia
+nephrotic syndrome
+nephrotic syndrome
 vertical spasm gaze
 vertical spasm gaze
 phototoxic eczema
 phototoxic eczema
 phototoxic reaction
 phototoxic reaction
-mobitz type 1 second degree atrioventricular block
-mobitz type 1 second degree atrioventricular block
+mobitz type second degree atrioventricular block
+mobitz type second degree atrioventricular block
 mobitz type wenckebach atrioventricular block
 mobitz type wenckebach atrioventricular block
 urti infection upper respiratory tract
@@ -16636,8 +16636,8 @@ right fascicular block
 right fascicular block
 rbbb right bundle branch block
 rbbb right bundle branch block
-pe pulmonary embolism
-pe pulmonary embolism
+pulmonary embolism
+pulmonary embolism
 desire drinks
 desire drinks
 desire fluids
@@ -16662,16 +16662,16 @@ sensory neural hearing loss
 sensory neural hearing loss
 snhl sensorineural hearing loss
 snhl sensorineural hearing loss
-pd perceptive deafness
-pd perceptive deafness
-fd foot drop
-fd foot drop
+perceptive deafness
+perceptive deafness
+foot drop
+foot drop
 short breath exertion
 short breath exertion
 soboe shortness breath exertion
 soboe shortness breath exertion
-ar allergic rhinitis
-ar allergic rhinitis
+allergic rhinitis
+allergic rhinitis
 orientation confused
 orientation confused
 orientation poor
@@ -16694,10 +16694,10 @@ svt supraventricular tachycardia
 svt supraventricular tachycardia
 cold touch
 cold touch
-om otitis media
-om otitis media
-ga granuloma annulare
-ga granuloma annulare
+otitis media
+otitis media
+granuloma annulare
+granuloma annulare
 cornea conical
 cornea conical
 injury oral cavity
@@ -16746,8 +16746,8 @@ sensitive heat
 sensitive heat
 gets overheated
 gets overheated
-ra rheumatoid arthritis
-ra rheumatoid arthritis
+rheumatoid arthritis
+rheumatoid arthritis
 rheumatoid disease
 rheumatoid disease
 rha rheumatoid arthritis
@@ -16766,8 +16766,8 @@ pht pulmonary hypertension
 pht pulmonary hypertension
 cardiac arrest ventricular fibrillation
 cardiac arrest ventricular fibrillation
-vf ventricular fibrillation
-vf ventricular fibrillation
+ventricular fibrillation
+ventricular fibrillation
 hypercalcuria
 hypercalcuria
 involuntary stool
@@ -16790,10 +16790,10 @@ disorder paranasal sinuses
 disorder paranasal sinuses
 gastrointestinal bleed
 gastrointestinal bleed
-gi gastrointestinal bleed
-gi gastrointestinal bleed
-fp food poisoning
-fp food poisoning
+gastrointestinal bleed
+gastrointestinal bleed
+food poisoning
+food poisoning
 detachment nail
 detachment nail
 observation sneezing
@@ -16808,8 +16808,8 @@ sleeps much
 sleeps much
 excessive sleepiness
 excessive sleepiness
-bn bulimia nervosa
-bn bulimia nervosa
+bulimia nervosa
+bulimia nervosa
 subconjunctival bleed
 subconjunctival bleed
 polyp stomach
@@ -16871,8 +16871,8 @@ low libido
 low libido
 inflammation bursa
 inflammation bursa
-hf heart failure
-hf heart failure
+heart failure
+heart failure
 period come late
 period come late
 photosensitive dermatitis
@@ -16889,14 +16889,14 @@ rapid pulse
 rapid pulse
 death cause unknown
 death cause unknown
-nb neuroblastoma
-nb neuroblastoma
+neuroblastoma
+neuroblastoma
 muscle wasting disorder
 muscle wasting disorder
 muscle thinning
 muscle thinning
-k potassium
-k potassium
+potassium
+potassium
 photosensitivity skin
 photosensitivity skin
 paracetamol product
@@ -16904,12 +16904,12 @@ paracetamol product
 paracetamol product
 disorder kidney
 disorder kidney
-mg myasthenia gravis
-mg myasthenia gravis
+myasthenia gravis
+myasthenia gravis
 musculoskeletal disorder
 musculoskeletal disorder
-mm malignant melanoma skin
-mm malignant melanoma skin
+malignant melanoma skin
+malignant melanoma skin
 cutaneous malignant melanoma
 cutaneous malignant melanoma
 secondary cancer bone
@@ -16934,8 +16934,8 @@ idiopathic ankylosing spondylitis
 idiopathic ankylosing spondylitis
 ankylosing spondylitis
 ankylosing spondylitis
-gu perforated gastric ulcer
-gu perforated gastric ulcer
+perforated gastric ulcer
+perforated gastric ulcer
 perforation gastric ulcer
 perforation gastric ulcer
 colicky abdominal pain
@@ -17251,8 +17251,8 @@ renotubular acidemia
 renotubular acidemia
 tachypneic
 tachypneic
-es esophageal spasm
-es esophageal spasm
+esophageal spasm
+esophageal spasm
 problem menstruation
 problem menstruation
 frequency urination
@@ -17355,10 +17355,10 @@ emotionally disturbed
 emotionally disturbed
 glydiazinamide
 glydiazinamide
-c1 719
-c1 719
-p isobutylhydratropic acid
-p isobutylhydratropic acid
+719
+719
+isobutylhydratropic acid
+isobutylhydratropic acid
 acetylsalicylic acid
 acetylsalicylic acid
 aspirin chemical
@@ -17423,8 +17423,8 @@ involuntary urination
 involuntary urination
 unable hold fluids
 unable hold fluids
-ui urinary incontinence
-ui urinary incontinence
+urinary incontinence
+urinary incontinence
 absence bladder continence
 absence bladder continence
 bladder incontinence
@@ -17490,8 +17490,8 @@ congested nose
 congested nose
 bruise
 bruise
-x psychogenic ibs
-x psychogenic ibs
+psychogenic ibs
+psychogenic ibs
 anisocytosis red cells finding
 anisocytosis red cells finding
 malignant melanoma icd subtype morphologic abnormality
@@ -17749,7 +17749,7 @@ endometriosis
 endometriosis
 osteoarthritis hand joint
 osteoarthritis hand joint
-mi myocardial infarction
+myocardial infarction
 myocardial infarct
 myocardial infarct
 hypopigmentation
@@ -17764,20 +17764,20 @@ rheumatic pain
 rheumatic pain
 gastropathy
 gastropathy
-hk hyperkeratosis
+hyperkeratosis
 hyperkeratosis skin
 hyperkeratosis skin
 wagner unverricht syndrome
 wagner unverricht syndrome
 polymyositis skin involvement
 polymyositis skin involvement
-dm dermatomyositis
+dermatomyositis
 degenerative polyarthritis
 degenerative polyarthritis
-oa osteoarthritis
+osteoarthritis
 degenerative arthritis
 degenerative arthritis
-oa osteoarthrosis
+osteoarthrosis
 hypertrophic arthritis
 hypertrophic arthritis
 degenerative joint disease
@@ -17814,14 +17814,14 @@ discharge nose
 discharge nose
 stomach ulcer
 stomach ulcer
-gu gastric ulcer
+gastric ulcer
 gastric ulceration
 gastric ulceration
 cardiac standstill
 cardiac standstill
 loose stools
 loose stools
-ls loose stools
+loose stools
 loose motion
 loose motion
 loose bowel motions
@@ -17880,7 +17880,7 @@ burning tongue
 burning tongue
 glossodynia
 glossodynia
-ca cancer prostate
+cancer prostate
 cancer prostate
 cancer prostate
 pain back
@@ -17928,7 +17928,7 @@ cranial arteritis
 cranial arteritis
 horton disease
 horton disease
-ta temporal arteritis
+temporal arteritis
 temporal giant cell arteritis
 temporal giant cell arteritis
 ingrown toenail
@@ -18050,7 +18050,7 @@ difficulty opening bowels
 difficulty opening bowels
 constipated
 constipated
-cn constipation
+constipation
 difficult passing motion
 difficult passing motion
 pain observations
@@ -18142,8 +18142,8 @@ visual impairment
 visual impairment
 partial sight
 partial sight
-lv low vision
-lv low vision
+low vision
+low vision
 decreased vision
 decreased vision
 problem sight
@@ -18677,8 +18677,8 @@ sweats
 sweats
 corneal haze
 corneal haze
-e tremor outstretched hands context dependent category
-e tremor outstretched hands context dependent category
+tremor outstretched hands context dependent category
+tremor outstretched hands context dependent category
 allergic reaction drug disorder
 allergic reaction drug disorder
 sensitization observable entity
@@ -18703,7 +18703,7 @@ traumatic injury disorder
 traumatic injury disorder
 asthma
 asthma
-e tremor outstretched hands
+tremor outstretched hands
 allergic reaction drug
 allergic reaction drug
 sensitization
@@ -18747,7 +18747,7 @@ aching muscles
 aching muscles
 statutory venereal disease
 statutory venereal disease
-vd venereal disease
+venereal disease
 dermatopathy
 dermatopathy
 ubidecarenone
@@ -18840,8 +18840,8 @@ death unknown cause event
 death unknown cause event
 drug action decreased finding
 drug action decreased finding
-e tremor outstretched hands finding
-e tremor outstretched hands finding
+tremor outstretched hands finding
+tremor outstretched hands finding
 propensity adverse reactions drug disorder
 propensity adverse reactions drug disorder
 nightmares finding
@@ -18903,9 +18903,9 @@ digestive symptom
 digestive symptom
 stuttering
 stuttering
-co codamol
-co codamol
-co codamol
+codamol
+codamol
+codamol
 propensity adverse reactions drug
 propensity adverse reactions drug
 nightmares
@@ -18961,8 +18961,8 @@ back ache
 back ache
 infant breastfed
 infant breastfed
-bf breastfeeding
-bf breastfed
+breastfeeding
+breastfed
 suprainfection
 suprainfection
 abnormal mental state
@@ -18984,9 +18984,9 @@ non fluent speech
 non fluent speech
 eye pain
 eye pain
-pk punctate keratitis
+punctate keratitis
 uri upper respiratory infection
-uc ulcerative colitis
+ulcerative colitis
 idiopathic proctocolitis
 idiopathic proctocolitis
 essential blepharospasm
@@ -19023,9 +19023,9 @@ mental dullness
 mental dullness
 urogenital bleeding
 urogenital bleeding
-av anaerobic vaginosis
-av anaerobic vaginosis
-bv bacterial vaginosis
+anaerobic vaginosis
+anaerobic vaginosis
+bacterial vaginosis
 bacterial vaginitis
 bacterial vaginitis
 nsv nonspecific vaginitis
@@ -19048,8 +19048,8 @@ nasal discharge present situation
 international normalized ratio inr raised finding
 international normalized ratio inr raised finding
 international normalized ratio inr raised finding
-reversible ischemic neurologic deficit r n .) syndrome disorder
-reversible ischemic neurologic deficit r n .) syndrome disorder
+reversible ischemic neurologic deficit syndrome disorder
+reversible ischemic neurologic deficit syndrome disorder
 bradycardia finding
 bradycardia finding
 nocturnal enuresis finding
@@ -19116,8 +19116,8 @@ international normalized ratio inr raised
 csc central serous choroidopathy
 dyschromia
 dyschromia
-reversible ischemic neurologic deficit r n .) syndrome
-reversible ischaemic neurologic deficit r n .) syndrome
+reversible ischemic neurologic deficit syndrome
+reversible ischaemic neurologic deficit syndrome
 mydriatic pupil
 mydriatic pupil
 sensory retinal detachment
@@ -19579,7 +19579,7 @@ paresthesia lower extremity
 paresthesia lower extremity
 alpha tocopherol
 alpha tocopherol
-tendinitis ankle tarsus achilles ankle ]) calcaneal spur metatarsalgia disorder
+tendinitis ankle tarsus achilles ankle calcaneal spur metatarsalgia disorder
 abdominal discomfort finding
 abdominal discomfort finding
 endometriosis disorder
@@ -19599,16 +19599,16 @@ estradiol substance
 estradiol substance
 eczema disorder
 eczema disorder
-anxiety state (& states panic attack ])) pseudocyesis disorder
-epicondylitis &/ tennis elbow golfers elbow disorder
+anxiety state states panic attack ])) pseudocyesis disorder
+epicondylitis tennis elbow golfers elbow disorder
 psychotic disorder disorder
 psychotic disorder disorder
 tobacco consumption non smoker smoker amount smoked finding
 tobacco consumption non smoker smoker amount smoked finding
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis disorder
-cardiomyopathy (& congest obst .] hyper obst .]) endomyocardial fibrosis disorder
-pneumonia influenza &/ pneumonia disorder
-pneumonia influenza &/ pneumonia disorder
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis disorder
+cardiomyopathy congest obst hyper obst .]) endomyocardial fibrosis disorder
+pneumonia influenza pneumonia disorder
+pneumonia influenza pneumonia disorder
 extrapyramidal disease nos blepharospasm choreo athetosis writer cramp organic myoclonic jerks spasmodic torticollis disorder
 hypomenorrhoea scanty periods disorder
 calculus kidney nephrolithiasis nos disorder
@@ -19620,19 +19620,19 @@ haematuria disorder
 haematuria disorder
 sinusitis disorder
 sinusitis disorder
-sialoadenitis (& parotitis ]) disorder
-sialoadenitis (& parotitis ]) disorder
-cardiovascular disease (& circulatory heart ]) disorder
-cardiovascular disease (& circulatory heart ]) disorder
-gingival &/ periodontal disease disorder
-gingival &/ periodontal disease disorder
+sialoadenitis parotitis disorder
+sialoadenitis parotitis disorder
+cardiovascular disease circulatory heart disorder
+cardiovascular disease circulatory heart disorder
+gingival periodontal disease disorder
+gingival periodontal disease disorder
 urticaria nos hives pachydermia disorder
 joint symptoms joint crepitus musculoskeletal pain joints finding
 frigidity impotence lack loss libido psychogen dyspareunia fear ejaculation premature ejaculation disorder
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )]) disorder
-sleep disorders (& insomnia nightmares sleepwalking (& somnambulism )]) disorder
-wheezing (& symptom ]) finding
-wheezing (& symptom ]) finding
+sleep disorders insomnia nightmares sleepwalking somnambulism )]) disorder
+sleep disorders insomnia nightmares sleepwalking somnambulism )]) disorder
+wheezing symptom finding
+wheezing symptom finding
 urine looks dark finding
 urine looks dark finding
 nasal congestion finding
@@ -19641,11 +19641,11 @@ feeling lonely finding
 feeling lonely finding
 generalised aches pains finding
 generalised aches pains finding
-muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma fb ][ talc ]) hypotonia unsp non traum musc tear ][ rupt ]) rhabdomyolysis disorder
+muscle ligament disord nos lig contraction musc contracture nodular fasciitis granuloma talc hypotonia unsp non traum musc tear rupt rhabdomyolysis disorder
 lower abdominal pain finding
 lower abdominal pain finding
 pain joint coxalgia finding
-bipolar ii disorder disorder
+bipolar disorder disorder
 excessive sweating finding
 excessive sweating finding
 initial insomnia finding
@@ -19729,7 +19729,7 @@ pruritus ani disorder
 pruritus ani disorder
 knee stiff finding
 knee stiff finding
-tiredness ], fatigue ], lethargy malaise symptom finding
+tiredness fatigue lethargy malaise symptom finding
 low back pain disorder
 low back pain disorder
 unable climb stairs finding
@@ -19746,7 +19746,7 @@ fracture disorder
 fracture disorder
 pain left arm finding
 pain left arm finding
-metabolic syndrome x disorder
+metabolic syndrome disorder
 wrist joint pain finding
 wrist joint pain finding
 elbow joint pain finding
@@ -19799,8 +19799,8 @@ sight deteriorating finding
 sight deteriorating finding
 bed ridden regime therapy
 bed ridden regime therapy
-loss taste (& symptom finding
-loss taste (& symptom finding
+loss taste symptom finding
+loss taste symptom finding
 fatigue finding
 fatigue finding
 pins needles finding
@@ -19831,7 +19831,7 @@ forgetful finding
 forgetful finding
 repetitive strain injury disorder
 repetitive strain injury disorder
-bell palsy &/ facial palsy disorder
+bell palsy facial palsy disorder
 abortion spontaneous complete incomplete disorder
 abortion spontaneous complete incomplete disorder
 thirst finding
@@ -19979,8 +19979,8 @@ breast tenderness finding
 breast tenderness finding
 increased frequency urination finding
 increased frequency urination finding
-hypothyroidism congenital acquired (& cretinism myxoedema ]) disorder
-hypothyroidism congenital acquired (& cretinism myxoedema ]) disorder
+hypothyroidism congenital acquired cretinism myxoedema disorder
+hypothyroidism congenital acquired cretinism myxoedema disorder
 chronic fatigue syndrome disorder
 chronic fatigue syndrome disorder
 myocardial infarction disorder
@@ -19989,8 +19989,8 @@ unable balance finding
 unable balance finding
 cerebral infarction disorder
 cerebral infarction disorder
-shock (& post abortion ]) disorder
-shock (& post abortion ]) disorder
+shock post abortion disorder
+shock post abortion disorder
 polymenorrhoea epimenorrhoea frequent periods disorder
 pain calf disorder
 pain calf disorder
@@ -19998,18 +19998,18 @@ bone pain finding
 bone pain finding
 immobile finding
 immobile finding
-chronic rhinitis (& ozaena disorder
-chronic rhinitis (& ozaena disorder
-cerebral degenerations nos &/ alzheimer disease &/ pick disease &/ reye syndrome disorder
+chronic rhinitis ozaena disorder
+chronic rhinitis ozaena disorder
+cerebral degenerations nos alzheimer disease pick disease reye syndrome disorder
 urine dark concentrated situation
 urine dark concentrated situation
 ophthalmic migraine disorder
 ophthalmic migraine disorder
 myalgia myositis nos intercostal myalgia disorder
-pain limb &/ nos disorder
-urinary tract infection (& nos ]) disorder
-sweat excessive (& symptom )] night finding
-sweat excessive (& symptom )] night finding
+pain limb nos disorder
+urinary tract infection nos disorder
+sweat excessive symptom night finding
+sweat excessive symptom night finding
 malignant tumour spleen disorder
 malignant tumour spleen disorder
 parkinsonism finding
@@ -20042,8 +20042,8 @@ burning pain finding
 burning pain finding
 lethargy finding
 lethargy finding
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ]) disorder
-pain limb (& ankle arm foot hand heel leg shoulder thigh buttock ]) disorder
+pain limb ankle arm foot hand heel leg shoulder thigh buttock disorder
+pain limb ankle arm foot hand heel leg shoulder thigh buttock disorder
 difficulty breathing finding
 difficulty breathing finding
 ulcerative colitis disorder
@@ -20085,7 +20085,7 @@ pyridoxine substance
 elevated mood finding
 elevated mood finding
 cerebral infarct cerebrovascular accident undefined stroke cva stroke nos disorder
-cough (& symptom ])) sputum symptom finding
+cough symptom ])) sputum symptom finding
 mild depression disorder
 mild depression disorder
 myalgia myositis upper arm disorder
@@ -20097,8 +20097,8 @@ diabetes mellitus disorder
 reduced concentration finding
 reduced concentration finding
 hypertensive disease hypertension disorder
-gingivitis (& chronic ]) disorder
-gingivitis (& chronic ]) disorder
+gingivitis chronic disorder
+gingivitis chronic disorder
 foot swelling finding
 foot swelling finding
 nocturia finding
@@ -20111,7 +20111,7 @@ palpitations finding
 palpitations finding
 hoarse finding
 hoarse finding
-shoulder syndrome (& painful arc ][ rotator cuff ])][ bicipital tendinit ][ bursitis ][ frozen ][ pericapsulit ][ adhes capsulit ]) tendinitis subscapular ][ supraspinat ][ infraspinat ][ bicep long head ]) disorder
+shoulder syndrome painful arc rotator cuff ])][ bicipital tendinit bursitis frozen pericapsulit adhes capsulit tendinitis subscapular supraspinat infraspinat bicep long head disorder
 heart failure disorder
 heart failure disorder
 bursitis disorder
@@ -20132,8 +20132,8 @@ endometriosis
 endometriosis
 oestradiol
 oestradiol
-vitamin b6
-vitamin b6
+vitamin
+vitamin
 neuralgia
 neuralgia
 sleepwalking disorder
@@ -20152,7 +20152,7 @@ cerebral infarction
 menstrual cramp
 menstrual cramp
 malignant melanoma icd subtype
-es oesophageal spasm
+oesophageal spasm
 sarcoma icd subtype
 acute leukaemia disease
 acute leukaemia disease
@@ -20244,10 +20244,10 @@ laboratory finding abnormal
 laboratory finding abnormal
 laboratory finding abnormal navigational concept
 laboratory finding abnormal navigational concept
-infection human herpesvirus 6
-infection human herpesvirus 6
-infection human herpesvirus 6 disorder
-infection human herpesvirus 6 disorder
+infection human herpesvirus
+infection human herpesvirus
+infection human herpesvirus disorder
+infection human herpesvirus disorder
 electrocardiogram abnormal
 electrocardiogram abnormal
 electrocardiogram abnormal finding
@@ -20300,7 +20300,7 @@ disorder joint shoulder region disorder
 disorder joint shoulder region disorder
 hemorrhage abdominal cavity structure disorder
 hemorrhage abdominal cavity structure disorder
-type ii diabetes mellitus uncontrolled finding
+type diabetes mellitus uncontrolled finding
 hemorrhage peritoneal cavity disorder
 hemorrhage peritoneal cavity disorder
 inflammation joint shoulder region disorder
@@ -20308,7 +20308,7 @@ inflammation joint shoulder region disorder
 neutropenic sepsis disorder
 neutropenic sepsis disorder
 raynaud phenomenon
-gilles de la tourette syndrome
+gilles tourette syndrome
 cognitive disorder
 cognitive disorder
 desmitis
@@ -20357,7 +20357,7 @@ neuroma
 haemorrhage abdominal cavity structure
 haemorrhage abdominal cavity structure
 crohn disease
-type ii diabetes mellitus uncontrolled
+type diabetes mellitus uncontrolled
 faint
 faint
 inflammation small intestine disorder
@@ -20593,10 +20593,10 @@ psychotic
 psychotic
 multi infarct dementia
 multi infarct dementia
-type ii diabetes mellitus poorly controlled
+type diabetes mellitus poorly controlled
 renal insufficiency
 renal insufficiency
-gilles de la tourettes syndrome
+gilles tourettes syndrome
 dermatitis hand
 dermatitis hand
 respiratory distress syndrome neonate
@@ -20611,12 +20611,12 @@ intraperitoneal hemorrhage
 intraperitoneal hemorrhage
 sleepwalking
 sleepwalking
-bipolar 2 disorder
-bipolar 2 disorder
+bipolar disorder
+bipolar disorder
 homicidal ideation
 homicidal ideation
-bipolar 1 disorder
-bipolar 1 disorder
+bipolar disorder
+bipolar disorder
 bruxism grinding teeth
 bruxism grinding teeth
 mental status stupor
@@ -21177,8 +21177,8 @@ inflammation sacroiliac joint disorder
 inflammation sacroiliac joint disorder
 photosensitization caused sun
 photosensitization caused sun
-infection caused human herpesvirus 6
-infection caused human herpesvirus 6
+infection caused human herpesvirus
+infection caused human herpesvirus
 poisoning caused sympathomimetic drug
 poisoning caused sympathomimetic drug
 allergic reaction caused drug disorder
@@ -21193,8 +21193,8 @@ infection caused larvae trichinella disorder
 allergic reaction caused substance disorder
 allergic reaction caused substance disorder
 infection caused candida albicans
-infection caused human herpesvirus 6 disorder
-infection caused human herpesvirus 6 disorder
+infection caused human herpesvirus disorder
+infection caused human herpesvirus disorder
 photosensitisation caused sun
 photosensitisation caused sun
 allergic reaction caused drug
@@ -21277,8 +21277,8 @@ sensation burning skin
 sensation burning skin
 nutritional deficiency state
 nutritional deficiency state
-type 2 diabetes mellitus uncontrolled
-type 2 diabetes mellitus uncontrolled
+type diabetes mellitus uncontrolled
+type diabetes mellitus uncontrolled
 withdrawal symptom finding
 withdrawal symptom finding
 withdrawal symptom
@@ -21389,8 +21389,8 @@ product containing cortisone medicinal product
 product containing cortisone
 product containing ascorbic acid medicinal product
 product containing ascorbic acid
-vitamin c
-vitamin c
+vitamin
+vitamin
 blackout
 adrenal hypofunction
 fresh blood passed per rectum
@@ -21475,24 +21475,24 @@ bruxism disorder
 cyst liver disorder
 congenital ventricular septal defect
 congenital ventricular septal defect disorder
-increased ck creatine kinase level
+increased creatine kinase level
 lyell syndrome disorder
 toxic epidermal necrolysis
 lyell syndrome
-disorder kidney co occurrent due diabetes mellitus disorder
-disorder kidney co occurrent due diabetes mellitus
+disorder kidney occurrent due diabetes mellitus disorder
+disorder kidney occurrent due diabetes mellitus
 kidney disorder due diabetes mellitus
-ibuprofen 50 mg g cutaneous gel
-product containing precisely ibuprofen 50 milligram 1 gram conventional release cutaneous gel clinical drug
-product containing precisely ibuprofen 50 milligram 1 gram conventional release cutaneous gel
+ibuprofen cutaneous gel
+product containing precisely ibuprofen milligram gram conventional release cutaneous gel clinical drug
+product containing precisely ibuprofen milligram gram conventional release cutaneous gel
 disorder skin subcutaneous tissue disorder
 disorder skin subcutaneous tissue
 infection skin subcutaneous tissue disorder
 infection skin subcutaneous tissue
-neuropathy co occurrent due diabetes mellitus disorder
-peripheral neuropathy co occurrent due diabetes mellitus disorder
-neuropathy co occurrent due diabetes mellitus
-peripheral neuropathy co occurrent due diabetes mellitus
+neuropathy occurrent due diabetes mellitus disorder
+peripheral neuropathy occurrent due diabetes mellitus disorder
+neuropathy occurrent due diabetes mellitus
+peripheral neuropathy occurrent due diabetes mellitus
 heavy menstrual bleeding
 myoclonia
 numbness tingling sensation skin finding
