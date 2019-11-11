@@ -1,0 +1,6 @@
+This directory contains pretrained embeddings models:
+1. CCE_Assets: Elmo embeddings trained on Wikipedia pages, discharge summaries from MIMIC-III, radiology reports from MIMIC-III
+   Embedding_Link:https://github.com/noc-lab/clinical_concept_extraction
+   Refrences: https://arxiv.org/pdf/1810.10566.pdf
+2. Pretrained Word vectors from:
+   https://github.com/ncbi-nlp/BioSentVec
