@@ -94,17 +94,22 @@ def check_for_medical_tweet(l_tweet_terms):
 def get_annotated_tweet(xtup, l_tweet_terms):
     is_tagging_in_progress = False
     d_annotated_terms = {}
+    tag_idx = 0
     for idx in range(0, len(l_tweet_terms)):
         term = l_tweet_terms[idx]
         if term in xtup:
             if (is_tagging_in_progress == False):
                 d_annotated_terms[term] = "B-Symptom"
+                tag_idx = idx
                 is_tagging_in_progress = True
             else:
-                d_annotated_terms[term] = "I-Symptom"
+                if (idx == tag_idx+1):
+                    d_annotated_terms[term] = "I-Symptom"
+                    tag_idx = idx
         else:
             d_annotated_terms[term] = "O"
             is_tagging_in_progress = False
+            tag_idx = 0
     return d_annotated_terms
 
 
@@ -154,7 +159,7 @@ def medical_tweet_extractor(q_json_files):
             print(mp.current_process().name, exp)
             pass
     xfh.close()
-    
+
 def main():
     # build symptoms dictionary
     file_sym_corpus = data_root_dir + "snomed_symptoms_corpus.txt"
@@ -170,13 +175,13 @@ def main():
     l_processes = [mp.Process(target=medical_tweet_extractor,
                               args=(q_json_files,))
                               for x in range(n_processes)]
-    
+
     for p in l_processes:
         p.start()
 
     for p in l_processes:
         p.join()
 
-        
+
 if __name__ == '__main__':
     main()
